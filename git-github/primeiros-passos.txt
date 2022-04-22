@@ -1,0 +1,42 @@
+## COMO INICIAR E COMO SALVAR ALTERAÇÕES NO REPOSITORÓRIO LOCAL
+
+### Passo 01:
+
+O primeiro comando para que o git comece de fato a funcionar e gerenciar de fato é o :
+
+​	git init
+
+
+
+### Passo 02:
+
+Definir email e nome do autor (caso seja o primeiro contato com o git):
+
+​	git config --global user.email "seu email"
+
+​	git config --global user.name "seu nome"
+
+
+
+### Passo 03:
+
+Depois que todas as alterações forem feitas nas pastas e arquivos é preciso prepara-los para o commit utilizando o comando :
+
+​	git add *
+
+
+
+### Passo 04:
+
+Por fim, para que os arquivos sejam salvos no repositório local com êxito é preciso fazer o commit com o comando:
+
+​	git commit -m "comentário sobre a alteração" 
+
+
+
+
+
+
+
+
+
