@@ -14,5 +14,5 @@ Execute o comando no terminal:
 
 ​	git clone + url do repositório remoto
 
-![image-20220422114041544](C:\Users\Felipe\AppData\Roaming\Typora\typora-user-images\image-20220422114041544.png)
+
 
