@@ -1,0 +1,18 @@
+# Como clonar arquivos do git hub para o repositório local
+
+
+
+### Passo 01:
+
+Escolha a pasta onde você quer que fique os arquivos clonados 
+
+
+
+### Passo 02:
+
+Execute o comando no terminal:
+
+​	git clone + url do repositório remoto
+
+![image-20220422114041544](C:\Users\Felipe\AppData\Roaming\Typora\typora-user-images\image-20220422114041544.png)
+

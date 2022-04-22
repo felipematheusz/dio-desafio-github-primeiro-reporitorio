@@ -1,0 +1,32 @@
+## Enviar arquivos locais para repositório remoto
+
+Os passos a seguir só devem ser feitos após o commit.
+
+### Passo 01:
+
+​	git remote add origin + link do repositório do git hub
+
+
+
+### Passo 02:
+
+​	git remot -v 
+
+Para verificar a lista de repositórios cadastrados
+
+
+
+### Passo 03:
+
+​	git push origin master ou main
+
+
+
+#### Atenção:
+
+Caso o repositório remoto contenha algum trabalho a mais que vc não tenha localmente deve-se utilizar :
+
+​	git pull origin master  
+
+
+
